@@ -1,4 +1,4 @@
-# Terrorism_Visualization_Analysis
+# Global Terrorism Interactive Visualization
 
 ## Introduction
 In this project, we built a shinyapp in R to visualize the counts, types, locations, and trends of global terrorism in the past five decades. We focused on the region distribution of American terrorism and its trends over years. 
@@ -16,6 +16,9 @@ In "Map and pie chart" tab, you can see the proportion of each attack type and e
 
 
 ![](Demos/map.png)
+
+
+
 
 
 

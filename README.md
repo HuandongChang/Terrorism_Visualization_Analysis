@@ -15,6 +15,16 @@ See 'app.R'. Since the app has already been deployed, it is easier to access the
 In "Map and pie chart" tab, you can see the proportion of each attack type and each country's terrorism cases for each year. At the same time, you can see the location and attack type of each instance. 
 
 
+![](Demos/map2.png)
+
+
+
+
+You can also choose different years (or play automatically) and zoom in and out to target a specific country.
+
+
+
+
 ![](Demos/map.png)
 
 

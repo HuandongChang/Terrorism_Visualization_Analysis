@@ -5,6 +5,9 @@ In this project, we built a shinyapp in R to visualize the counts, types, locati
 
 Authors: Huandong Chang, Yi Qin, and Vidush Goswami
 
+## Code
+See 'app.R'. Since the app has already been deployed, it is easier to access the app [here](https://huandongchang.shinyapps.io/GlobalTerrorism/).
+
 
 ## Demo
 In "Map and pie chart" tab, you can see the proportion of each attack type and each country's terrorism cases for each year. At the same time, you can see the location and attack type of each instance. 
@@ -25,10 +28,6 @@ You can also choose different years (or play automatically) and zoom in and out 
 
 ## Presentation
 we have our presentation on [Youtube](https://www.youtube.com/watch?v=R8nh2km174Q).
-
-## Code
-See 'app.R'. Since the app has already been deployed, it is easier to access the app [here](https://huandongchang.shinyapps.io/GlobalTerrorism/).
-
 
 
 

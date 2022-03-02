@@ -17,18 +17,12 @@ In "Map and pie chart" tab, you can see the proportion of each attack type and e
 
 
 
-
 You can also choose different years (or play automatically) and zoom in and out to target a specific country.
 
 
 
 
 ![](Demos/map.png)
-
-
-## Presentation
-we have our presentation on [Youtube](https://www.youtube.com/watch?v=R8nh2km174Q).
-
 
 
 
@@ -38,6 +32,8 @@ Since the "Map and pie chart" tab can only give an overview and does not target 
 
 ![](Demos/plot.png)
 
+## Presentation
+we have our presentation on [Youtube](https://www.youtube.com/watch?v=R8nh2km174Q).
 
 
 ## Reference

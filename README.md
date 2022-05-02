@@ -3,7 +3,7 @@
 ## Introduction
 In this project, we built a shinyapp in R to visualize the counts, types, locations, and trends of global terrorism in the past five decades. We focused on the region distribution of American terrorism and its trends over years. 
 
-Authors: Huandong Chang, Yi Qin, and Vidush Goswami
+Authors: Huandong Chang, Vidush Goswami, and Yi Qin 
 
 ## Code
 See 'app.R'. Since the app has already been deployed, it is easier to access the app [here](https://huandongchang.shinyapps.io/GlobalTerrorism/).
